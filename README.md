@@ -18,43 +18,43 @@
 
 ### 登录页面
 
-![image-20230516100039095](E:\笔记\胖前端-规划\typora-image-cache\image-20230516100039095.png)
+![image-20230516100039095](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/登录页.png)
 
 ### 首页
 
-![image-20230516095937908](E:\笔记\胖前端-规划\typora-image-cache\image-20230516095937908.png)
+![image-20230516095937908](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/首页.png)
 
 ### 文章管理
 
-![image-20230516100309802](E:\笔记\胖前端-规划\typora-image-cache\image-20230516100309802.png)
+![image-20230516100309802](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/文章管理.png)
 
-![image-20230516100409948](E:\笔记\胖前端-规划\typora-image-cache\image-20230516100409948.png)
+![image-20230516100409948](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/文章添加.png)
 
 ### 分类管理
 
-![image-20230516100609883](E:\笔记\胖前端-规划\typora-image-cache\image-20230516100609883.png)
+![image-20230516100609883](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/分类管理.png)
 
-![image-20230516100730144](E:\笔记\胖前端-规划\typora-image-cache\image-20230516100730144.png)
+![image-20230516100730144](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/分类添加.png)
 
 ### 个人中心
 
-![image-20230516100929331](E:\笔记\胖前端-规划\typora-image-cache\image-20230516100929331.png)
+![image-20230516100929331](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/个人中心1.png)
 
-![image-20230516101246127](E:\笔记\胖前端-规划\typora-image-cache\image-20230516101246127.png)
+![image-20230516101246127](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/个人中心2.png)
 
 ### 404页
 
-![image-20230516101426774](E:\笔记\胖前端-规划\typora-image-cache\image-20230516101426774.png)
+![image-20230516101426774](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/404.png)
 
 
 
 ## 技术选型
 
-![image-20230516104631017](../../../../typora-image-cache/image-20230516104631017.png)
+![image-20230516104631017](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/技术选型.png)
 
 ## 前端路由
 
-![image-20230516105609609](../../../../typora-image-cache/image-20230516105609609.png)
+![image-20230516105609609](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/前端路由.png)
 
 ## 开源地址
 
