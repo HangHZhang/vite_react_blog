@@ -1,0 +1,37 @@
+.header {
+  height: 80px;
+  border-bottom: 0.5px solid rgba(0, 0, 0, 0.2);
+}
+.header .icon-container {
+  margin: 24px 2px;
+}
+.header .icon-container .arco-icon {
+  stroke-width: 4px;
+  width: 35px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+.header .icon-container .arco-icon:hover {
+  color: #1890ff;
+}
+.header .header-right .header-right-top {
+  height: 40px;
+  line-height: 40px;
+  margin: 0 20px;
+}
+.header .header-right .header-right-top .link-button {
+  margin-right: 25px;
+}
+.header .header-right .header-right-top .icon-link {
+  color: black;
+}
+.header .header-right .header-right-bottom {
+  height: 40px;
+  font-size: 14px;
+  line-height: 40px;
+  margin: 0 23px 5px 20px;
+}
+.header .header-right .header-right-bottom img {
+  width: 26px;
+  margin: 0 10px;
+}

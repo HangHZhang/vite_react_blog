@@ -1,0 +1,45 @@
+.page{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  box-sizing: border-box;
+}
+.code{
+  font-size: 260px;
+  line-height: 1.5;
+  font-weight: bolder;
+  color: #B39CD0;
+  animation: myAnimation 1.5s infinite;
+}
+.code span{
+  color: #FBEAFF;
+}
+.desc{
+  font-size: 32px;
+  color: #845EC2;
+}
+.handle{
+  margin-top: 35px;
+  padding-bottom: 180px;
+  .btn1 {
+    margin-right: 10px;
+  }
+}
+@keyframes myAnimation {
+  0% {
+      letter-spacing: 8px;
+      transform: translate(0px, 0px);
+  }
+  50% {
+      letter-spacing: 10px;
+      transform: translate(0px, -5px);
+  }
+  100% {
+      letter-spacing: 8px;
+      transform: translate(0px, 0px);
+  }
+}
