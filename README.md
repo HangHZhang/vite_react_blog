@@ -18,7 +18,7 @@
 
 ### 登录页面
 
-![image-20230516100039095](https://github.com/HangHZhang/vite_react_blog/blob/main/imgs/登录页.png)
+![image-20230516100039095](https://gitee.com/almighty-king/typora_img/tree/master/img/登录页.png)
 
 ### 首页
 
