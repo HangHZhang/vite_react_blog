@@ -18,7 +18,7 @@
 
 ### 登录页面
 
-![image-20230516100039095](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/登录页.png)
+![image-20230516100039095](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
 
 ### 首页
 
