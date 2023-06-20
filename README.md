@@ -22,7 +22,7 @@
 
 ### 首页
 
-![image-20230516095937908](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/首页.png)
+![image-20230516095937908](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/%E9%A6%96%E9%A1%B5.png)
 
 ### 文章管理
 
