@@ -18,43 +18,43 @@
 
 ### 登录页面
 
-![image-20230516100039095](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
+![image-20230516100039095](https://cdnjson.com/image/GVTN5)
 
 ### 首页
 
-![image-20230516095937908](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/%E9%A6%96%E9%A1%B5.png)
+![image-20230516095937908](https://cdnjson.com/image/GVRci)
 
 ### 文章管理
 
-![image-20230516100309802](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/文章管理.png)
+![image-20230516100309802](https://cdnjson.com/image/GVO1G)
 
-![image-20230516100409948](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/文章添加.png)
+![image-20230516100409948](https://cdnjson.com/image/GVZOj)
 
 ### 分类管理
 
-![image-20230516100609883](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/分类管理.png)
+![image-20230516100609883](https://cdnjson.com/image/GVKAP)
 
-![image-20230516100730144](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/分类添加.png)
+![image-20230516100730144](https://cdnjson.com/image/GVNwU)
 
 ### 个人中心
 
-![image-20230516100929331](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/个人中心1.png)
+![image-20230516100929331](https://cdnjson.com/image/GVfXk)
 
-![image-20230516101246127](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/个人中心2.png)
+![image-20230516101246127](https://cdnjson.com/image/GVoIB)
 
 ### 404页
 
-![image-20230516101426774](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/404.png)
+![image-20230516101426774](https://cdnjson.com/image/GVxoa)
 
 
 
 ## 技术选型
 
-![image-20230516104631017](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/技术选型.png)
+![image-20230516104631017](https://cdnjson.com/image/GVWg1)
 
 ## 前端路由
 
-![image-20230516105609609](https://gitee.com/almighty-king/typora_img/blob/master/img/person_blog/前端路由.png)
+![image-20230516105609609](https://cdnjson.com/image/GVlLE)
 
 ## 开源地址
 
